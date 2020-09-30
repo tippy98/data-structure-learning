@@ -1,0 +1,27 @@
+{
+  "name": "data-structure-learning",
+  "version": "1.0.0",
+  "description": "a ts project for reviewing data-structure",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node ./src/main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tippy98/data-structure-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tippy98/data-structure-learning/issues"
+  },
+  "homepage": "https://github.com/tippy98/data-structure-learning#readme",
+  "dependencies": {
+    "@types/node": "^14.11.2",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
